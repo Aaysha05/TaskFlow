@@ -85,6 +85,11 @@ http://127.0.0.1:8000/
 
 ![Add Task](screenshots/add_task.png)
 
+---
+
+### 🌙 Dark Mode
+
+![DARK Mode](screenshots/dark_theme.png)
 
 ## 👩‍💻 Author
 
